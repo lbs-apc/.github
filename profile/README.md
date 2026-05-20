@@ -8,7 +8,7 @@ Visible Armor Slots
       <img 
         title="Huge Framework"
         alt="Icon"
-        src=""
+        src="https://github.com/lbs-apc/.github/blob/main/icons/huge.png"
         width="120"
         height="120"
         style="object-fit: contain;"
